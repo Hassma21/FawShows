@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_title">Search</string>
+    <string name="search_placeholder">Search media</string>
+    <string name="search_hint">Type to search media...</string>
+    <string name="search_error_unknown">Something went wrong</string>
+</resources>

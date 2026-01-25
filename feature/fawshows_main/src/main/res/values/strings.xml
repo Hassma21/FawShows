@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="section_best_movies">En İyi Filmler</string>
+    <string name="section_best_tvs">En İyi Diziler</string>
+
+    <string name="section_trending_daily_movies">Günlük Trend Filmler</string>
+    <string name="section_trending_daily_tvs">Günlük Trend Diziler</string>
+
+    <string name="section_trending_weekly_movies">Aylık Trend Filmler</string>
+    <string name="section_trending_weekly_tvs">Aylık Trend Diziler</string>
+
+    <string name="section_now_playing">Vizyondakiler</string>
+    <string name="section_upcoming">Yaklaşan Filmler</string>
+</resources>

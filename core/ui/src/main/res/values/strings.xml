@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="retry">Try Again</string>
+    <string name="see_all">See All</string>
+    <string name="added_to_favourites">Added to Favorites</string>
+    <string name="removed_from_favourites">Removed from Favorites</string>
+    <string name="error_occurred">Operation Failed</string>
+    <string name="network_error">We are unable to process your transaction at this time. Please check your internet connection or try again later.</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="not_found_media_at_favourite">No media was found that was added as a favorite.</string>
+    <string name="my_favourites">My Favourites</string>
+</resources>
